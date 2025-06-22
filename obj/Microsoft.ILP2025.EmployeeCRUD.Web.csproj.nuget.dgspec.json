@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Web\\Microsoft.ILP2025.EmployeeCRUD.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj",
+        "projectName": "Microsoft.ILP2025.EmployeeCRUD.Entities",
+        "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj",
+        "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj",
+        "projectName": "Microsoft.ILP2025.EmployeeCRUD.Repositores",
+        "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj",
+        "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Servcies\\Microsoft.ILP2025.EmployeeCRUD.Servcies.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Servcies\\Microsoft.ILP2025.EmployeeCRUD.Servcies.csproj",
+        "projectName": "Microsoft.ILP2025.EmployeeCRUD.Servcies",
+        "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Servcies\\Microsoft.ILP2025.EmployeeCRUD.Servcies.csproj",
+        "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Servcies\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj"
+              },
+              "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Web\\Microsoft.ILP2025.EmployeeCRUD.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Web\\Microsoft.ILP2025.EmployeeCRUD.Web.csproj",
+        "projectName": "Microsoft.ILP2025.EmployeeCRUD.Web",
+        "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Web\\Microsoft.ILP2025.EmployeeCRUD.Web.csproj",
+        "packagesPath": "C:\\Users\\KIIT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\KIIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Entities\\Microsoft.ILP2025.EmployeeCRUD.Entities.csproj"
+              },
+              "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Repositores\\Microsoft.ILP2025.EmployeeCRUD.Repositores.csproj"
+              },
+              "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Servcies\\Microsoft.ILP2025.EmployeeCRUD.Servcies.csproj": {
+                "projectPath": "C:\\Users\\KIIT\\ILPCRUD-main\\Microsoft.ILP2025.EmployeeCRUD.Servcies\\Microsoft.ILP2025.EmployeeCRUD.Servcies.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
